@@ -38,7 +38,7 @@
 
 ​		2、MVC三层架构
 
-![mvc](E:\lian\spring\image\mvc.png)
+![mvc](https://i.loli.net/2020/08/10/uvDjlwXcMRnF7im.png)
 
 ​		3、使用EJB进行应用的开发，但是EJB是重量级框架（在使用的时候，过多的接口和依赖，侵入性强），在使用上比较麻烦
 
