@@ -14,7 +14,7 @@
 
 ​		随着互联网的发展，网站应用的规模不断扩大，常规的垂直应用架构已无法应对，分布式服务架构以及流动计算架构势在必行，亟需一个治理系统确保架构有条不紊的演进。
 
-![image](E:\lian\spring\image\dubbo-architecture-roadmap.jpg)
+![image](../image/dubbo-architecture-roadmap.jpg)
 
 ​		单一应用架构
 
