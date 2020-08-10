@@ -114,7 +114,7 @@ Spring 是开源的。它拥有一个庞大而且活跃的社区，提供不同�
 
 **spring的模块划分图**
 
-![overview](E:\lian\spring\image\spring-overview.png)
+![overview](https://i.loli.net/2020/08/10/GwdCtmKTPglarLq.png)
 
 ```
 模块解释：
